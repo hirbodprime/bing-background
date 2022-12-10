@@ -16,7 +16,7 @@ setuptools.setup(
     # project_urls = {
         # "Bug Tracker": "https://git.pe42.ir/hirbod/bing-background-python/issues"
     # },
-    keywords=['python', 'scraper', 'coinmarketcap', 'coinmarketcap scraper', 'beautifulsoup'],
+    keywords=['python', 'bing','daily bing picture' 'beautifulsoup'],
     classifiers=[
         "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
@@ -26,6 +26,6 @@ setuptools.setup(
         "Operating System :: Microsoft :: Windows",
     ],
     license='MIT',
-    packages=['bing-background'],
+    packages=['bing'],
     install_requires=['beautifulsoup4' , 'requests'],
 )
