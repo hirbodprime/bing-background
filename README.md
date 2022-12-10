@@ -10,7 +10,8 @@
 
 Options:  
   -h, --help         show this help message and exit  
-  -d DAY, --day=DAY  set the background to --day n by date   ```  
+  -d DAY, --day=DAY  set the background to --day n by date   
+```  
 
 
 # download package with pip
